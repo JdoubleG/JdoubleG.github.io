@@ -1,0 +1,58 @@
+/* Stylesheet for my personal website.
+ *
+ * Written by:  James Garijo-Garde
+ *         for: Exclusive personal use
+ *         on:  12/29/2017
+ */
+
+/* GLOBAL STYLES */
+body {
+    font-family: "Trebuchet MS", "Verdana", "Tahoma", sans-serif;
+    font-size: 18pt;
+    color: #999999;
+    background-color: #333333;
+    overflow:auto;
+    margin: 0 0 0 0;
+}
+a {
+    color: #ffffff;
+}
+
+/* Menu Styles */
+#menu {
+    position: absolute;
+    width: 70pt;
+    background-color: #252525;
+    float: left;
+    margin: -17% 0 0 0;
+    padding: 0 0 0 0;
+    border: 0 0 0 0;
+    outline: 0 0 0 0;
+}
+div#menu ul {
+    list-style: none;
+}
+div#menu ul a {
+    font-weight: bold;
+    font-size: 48pt;
+    text-decoration: none;
+    line-height: 282.9%;
+}
+/* TODO: add animations. */
+
+/* Main Page Styles */
+#page {
+    position: relative;
+}
+div#hometext {
+    margin: 17% auto 0 auto;
+}
+h1#name {
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 36pt;
+    text-align: center;
+}
+p#desc {
+    text-align: center;
+}
