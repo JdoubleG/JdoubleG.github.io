@@ -1,8 +1,8 @@
-/* Stylesheet for my personal website's home page.
+/* Stylesheet for my personal website's links page.
  *
  * Written by:  James Garijo-Garde
  *         for: Exclusive personal use
- *         on:  12/29/2018 - 1/1/2018
+ *         on:  1/1/2018
  */
 
 /* GLOBAL STYLES */
@@ -52,17 +52,22 @@ div#menu li {
 /* TODO: add animations. */
 
 /* Home Text Styles */
-div#hometext {
-    /* position: relative; */
-    margin: 35vh auto 0 140px;
+div#pagetext {
+    margin: 20px auto 0 190px;
     text-shadow: 0 0 14px black; 
 }
-h1#name {
+h1#links {
     font-weight: bold;
     color: #ffffff;
     font-size: 36pt;
-    text-align: center;
+    text-align: left;
 }
-p#desc {
-    text-align: center;
+li.sites {
+    display: inline;
+    /* text-align: left;
+    line-height: 32pt; */
+}
+li.sites img {
+    width: 250px;
+    height: 250px;
 }
