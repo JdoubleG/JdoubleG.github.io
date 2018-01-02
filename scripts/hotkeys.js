@@ -1,9 +1,9 @@
-/* hotkeys.js -- Alows for keyboard navegation of my personal website.
+/* hotkeys.js -- Alows for keyboard navigation of my personal website.
  *               THIS FILE IS BROKEN AND DOES NOT FUNCTION AS INTENDED
  *
  * Written by:  James Garijo-Garde
  *         for: Exclusive personal use
- *         on:  12/29/2017
+ *         on:  12/29/2017 - 1/1/2018
  */
 
 /* listen
@@ -22,35 +22,35 @@ function listen(event)
 }
 
 /* home
- * Redirects the user to the webpage's home URL.  */
+ * Redirects the user to the web page's home URL.  */
 function home()
 {
     window.location.href = "jdoubleg.github.io";
 }
 
 /* about
- * Redirects the user to the webpage's about URL.  */
+ * Redirects the user to the web page's about URL.  */
 function about()
 {
     window.location.href = "jdoubleg.github.io/about";
 }
 
 /* projects
- * Redirects the user to the webpage's projects URL.  */
+ * Redirects the user to the web page's projects URL.  */
 function projects()
 {
     window.location.href = "jdoubleg.github.io/projects";
 }
 
 /* lins
- * Redirects the user to the webpage's lins URL.  */
+ * Redirects the user to the web page's lins URL.  */
 function links()
 {
     window.location.href = "jdoubleg.github.io/links";
 }
 
 /* contact
- * Redirects the user to the webpage's contact URL.  */
+ * Redirects the user to the web page's contact URL.  */
 function contact()
 {
     window.location.href = "https://goo.gl/forms/YT4GXyztVJ0XWTn73";

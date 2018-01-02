@@ -6,15 +6,14 @@ Written by:  James Garijo-Garde
 This is my personal website Version 1.0
 =======================================
 
-This website is designed with a functional minimalisitic design that is intended
+This website is designed with a functional minimalistic design that is intended
 to retain stylish form while not sacrificing functionality.
 
 A note on the images used to facilitate links to external websites: these images
 were taken from the Twitter profiles of each of the companies and modified by me
-in photoshop to fit the color scheme of my website. I do not take ownership of
-any of these designs and am only responsible for the recoloring of the logos.
-I acknowledge that all rights pertaining to these images belong to the
-respective company.
+to fit the color scheme of my website. I do not take ownership of any of these
+designs and am only responsible for the recoloring of the logos. I acknowledge
+that all rights pertaining to these images belong to the respective company.
 
 
 ## As of 1/1/2018 (v1.0):
@@ -24,7 +23,7 @@ website.
 
 ## As of 12/31/2017 (v0.2):
 
-Fixed various appearance buggs. Added "About" page.
+Fixed various appearance bugs. Added "About" page.
 
 ## As of 12/30/2017 (v0.1):
 
@@ -43,44 +42,44 @@ hotkey navigation.
         * index.html:   this is the "About" page.
         * _scripts_:
             * hotkeys.js:   the hotkeys script. **This file is broken**
-            * index.html:   a 404 page; there is not intended to be a webpage
+            * index.html:   a 404 page; there is not intended to be a web page
                             here.
         * _styles_:
-            * index.html:   a 404 page; there is not intended to be a webpage
+            * index.html:   a 404 page; there is not intended to be a web page
                             here.
             * style.css:    the stylesheet for the "About" page.
     * _links_:
         * index.html:   this is the "Links" page.
         * _images_:
             * GitHub.png:   the GitHub logo ( (c) GitHub).
-            * index.html:   a 404 page; there is not intended to be a webpage
+            * index.html:   a 404 page; there is not intended to be a web page
                             here.
             * LinkedIn.png: the LinkedIn logo ( (c) LinkedIn).
             * Medium.png:   the Medium logo ( (c) Medium).
-            * Twitter.png:  the Twiter logo ( (c) Twitter).
+            * Twitter.png:  the Twitter logo ( (c) Twitter).
         * _scripts_:
             * hotkeys.js:   the hotkeys script. **This file is broken**
-            * index.html:   a 404 page; there is not intended to be a webpage
+            * index.html:   a 404 page; there is not intended to be a web page
                             here.
         * _styles_:
-            * index.html:   a 404 page; there is not intended to be a webpage
+            * index.html:   a 404 page; there is not intended to be a web page
                             here.
             * style.css:    the stylesheet for the "About" page.
     * _projects_:
        * index.html:   this is the "Projects" page.
         * _scripts_:
             * hotkeys.js:   the hotkeys script. **This file is broken**
-            * index.html:   a 404 page; there is not intended to be a webpage
+            * index.html:   a 404 page; there is not intended to be a web page
                             here.
         * _styles_:
-            * index.html:   a 404 page; there is not intended to be a webpage
+            * index.html:   a 404 page; there is not intended to be a web page
                             here.
             * style.css:    the stylesheet for the "Projects" page.
     * _scripts_:
         * hotkeys.js: the hotkeys script. **This file is broken**
-        * index.html: a 404 page; there is not intended to be a webpage here.
+        * index.html: a 404 page; there is not intended to be a web page here.
     * _styles_:
-        * index.html: a 404 page; there is not intended to be a webpage here.
+        * index.html: a 404 page; there is not intended to be a web page here.
         * style.css:  the stylesheet for the "Home" page.
 
 
