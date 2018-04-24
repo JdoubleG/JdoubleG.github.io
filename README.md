@@ -67,12 +67,12 @@ hotkey navigation.
   * **styles**:
     * `index.html`:   a 404 page; there is not intended to be a web page here.
     * `style.css`:    the stylesheet for the "Projects" page.
-  * **scripts**:
-    * `hotkeys.js`: the hotkeys script. _This file is broken_
-    * `index.html`: a 404 page; there is not intended to be a web page here.
-  * **styles**:
-    * `index.html`: a 404 page; there is not intended to be a web page here.
-    * `style.css`:  the stylesheet for the "Home" page.
+* **scripts**:
+  * `hotkeys.js`: the hotkeys script. _This file is broken_
+  * `index.html`: a 404 page; there is not intended to be a web page here.
+* **styles**:
+  * `index.html`: a 404 page; there is not intended to be a web page here.
+  * `style.css`:  the stylesheet for the "Home" page.
 
 
 ## References:
