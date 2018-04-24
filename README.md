@@ -35,52 +35,44 @@ In future revisions, the menu bar will be animated and there will be functional
 hotkey navigation.
 
 ## Files in this project:
-
-    * index.html: this is the "Home" page.
-    * README.md:  this file -- information regarding the project.
-    * _about_:
-        * index.html:   this is the "About" page.
-        * _scripts_:
-            * hotkeys.js:   the hotkeys script. **This file is broken**
-            * index.html:   a 404 page; there is not intended to be a web page
-                            here.
-        * _styles_:
-            * index.html:   a 404 page; there is not intended to be a web page
-                            here.
-            * style.css:    the stylesheet for the "About" page.
-    * _links_:
-        * index.html:   this is the "Links" page.
-        * _images_:
-            * GitHub.png:   the GitHub logo ( (c) GitHub).
-            * index.html:   a 404 page; there is not intended to be a web page
-                            here.
-            * LinkedIn.png: the LinkedIn logo ( (c) LinkedIn).
-            * Medium.png:   the Medium logo ( (c) Medium).
-            * Twitter.png:  the Twitter logo ( (c) Twitter).
-        * _scripts_:
-            * hotkeys.js:   the hotkeys script. **This file is broken**
-            * index.html:   a 404 page; there is not intended to be a web page
-                            here.
-        * _styles_:
-            * index.html:   a 404 page; there is not intended to be a web page
-                            here.
-            * style.css:    the stylesheet for the "About" page.
-    * _projects_:
-       * index.html:   this is the "Projects" page.
-        * _scripts_:
-            * hotkeys.js:   the hotkeys script. **This file is broken**
-            * index.html:   a 404 page; there is not intended to be a web page
-                            here.
-        * _styles_:
-            * index.html:   a 404 page; there is not intended to be a web page
-                            here.
-            * style.css:    the stylesheet for the "Projects" page.
-    * _scripts_:
-        * hotkeys.js: the hotkeys script. **This file is broken**
-        * index.html: a 404 page; there is not intended to be a web page here.
-    * _styles_:
-        * index.html: a 404 page; there is not intended to be a web page here.
-        * style.css:  the stylesheet for the "Home" page.
+* `index.html`: this is the "Home" page.
+* `README.md`:  this file -- information regarding the project.
+* **about**:
+  * `index.html`:   this is the "About" page.
+  * **scripts**:
+    * `hotkeys.js`:   the hotkeys script. _This file is broken_
+    * `index.html`:   a 404 page; there is not intended to be a web page here.
+* **styles**:
+    * `index.html`:   a 404 page; there is not intended to be a web page here.
+    * `style.css`:    the stylesheet for the "About" page.
+* **links**:
+    * `index.html`:   this is the "Links" page.
+    * **images**:
+      * `GitHub.png`:   the GitHub logo (&copy;GitHub).
+      * `index.html`:   a 404 page; there is not intended to be a web page here.
+      * `LinkedIn.png`: the LinkedIn logo (&copy;LinkedIn).
+      * `Medium.png`:   the Medium logo (&copy;Medium).
+      * `Twitter.png`:  the Twitter logo (&copy;Twitter).
+    * **scripts**:
+      * `hotkeys.js`:   the hotkeys script. _This file is broken_
+      * `index.html`:   a 404 page; there is not intended to be a web page here.
+    * **styles**:
+      * `index.html`:   a 404 page; there is not intended to be a web page here.
+      * `style.css`:    the stylesheet for the "About" page.
+* **projects**:
+  * `index.html`:   this is the "Projects" page.
+  * **scripts**:
+    * `hotkeys.js`:   the hotkeys script. _This file is broken_
+    * `index.html`:   a 404 page; there is not intended to be a web page here.
+  * **styles**:
+    * `index.html`:   a 404 page; there is not intended to be a web page here.
+    * `style.css`:    the stylesheet for the "Projects" page.
+  * **scripts**:
+    * `hotkeys.js`: the hotkeys script. _This file is broken_
+    * `index.html`: a 404 page; there is not intended to be a web page here.
+  * **styles**:
+    * `index.html`: a 404 page; there is not intended to be a web page here.
+    * `style.css`:  the stylesheet for the "Home" page.
 
 
 ## References:
@@ -92,4 +84,4 @@ hotkey navigation.
 * [MDN web docs](https://developer.mozilla.org/en-US)
 * [StackOverflow](https://stackoverflow.com)
 * [GitHub Pages](https://pages.github.com)
-* [Markdown](https://en.wikipedia.org/wiki/Markdown)
+* [Markdown (Wikipedia)](https://en.wikipedia.org/wiki/Markdown)
