@@ -1,8 +1,8 @@
-/* Stylesheet for my personal website's projects page.
+/* Stylesheet for my personal website's contact page.
  *
  * Written by:  James Garijo-Garde
  *         for: Exclusive personal use
- *         on:  1/1/2018
+ *         on:  5/20/2018
  */
 
 /* GLOBAL STYLES */
@@ -65,4 +65,14 @@ h1#projects {
 p.desc {
     text-align: left;
     line-height: 32pt;
+}
+
+iframe#gForm {
+    /* Default values (originally in HTML code:
+     * width="700" height="520" frameborder="0" marginheight="0" marginwidth="0"
+     */
+    width: 170vh;
+    height: 80vh;
+    border: 0;
+    margin: 0 0 0 0;
 }

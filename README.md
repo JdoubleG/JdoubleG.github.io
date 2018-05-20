@@ -1,9 +1,9 @@
 Written by:  James Garijo-Garde
         for: Exclusive personal use
-        on:  12/29/2017 - 1/1/2018
+        on:  12/29/2017 - 5/20/2018
 
 
-This is my personal website Version 1.0
+This is my personal website Version 1.1
 =======================================
 
 This website is designed with a functional minimalistic design that is intended
@@ -15,6 +15,9 @@ to fit the color scheme of my website. I do not take ownership of any of these
 designs and am only responsible for the recoloring of the logos. I acknowledge
 that all rights pertaining to these images belong to the respective company.
 
+## As of 5/20/2018 (v1.1):
+
+Added "Contact" page. Fixed various minor documentation issues.
 
 ## As of 1/1/2018 (v1.0):
 
