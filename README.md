@@ -17,7 +17,7 @@ that all rights pertaining to these images belong to the respective company.
 
 ## As of 5/20/2018 (v1.1):
 
-Added "Contact" page. Fixed various minor documentation issues.
+Added native "Contact" page. Fixed various minor documentation issues.
 
 ## As of 1/1/2018 (v1.0):
 
