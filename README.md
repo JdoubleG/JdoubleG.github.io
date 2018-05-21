@@ -1,10 +1,10 @@
 Written by:  James Garijo-Garde
-     |  for: Exclusive personal use
+     |  for: exclusive personal use
      |  on:  12/29/2017 - 5/20/2018
 
 
-This is my personal website Version 1.2
-=======================================
+This is my personal website, Version 1.2
+========================================
 
 This website is designed with a functional minimalistic design that is intended
 to retain stylish form while not sacrificing functionality.
@@ -39,8 +39,8 @@ Added an initial design of the homepage.
 
 ## For the future:
 
-In future revisions, the menu bar will be animated and there will be functional
-hotkey navigation.
+In future revisions, the menu bar will be animated and additional content will
+be added.
 
 ## Files in this project:
 * `CNAME`: this file is used by GitHub to set a custom URL of http://jamesgg.net.
