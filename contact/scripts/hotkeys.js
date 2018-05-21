@@ -2,7 +2,7 @@
  *
  * Written by:  James Garijo-Garde
  *         for: Exclusive personal use
- *         on:  12/29/2017 - 5/20/2018
+ *         on:  5/20/2018
  */
 
 /* home
@@ -19,6 +19,14 @@ function about()
 {
     window.location.href = '../about/index.html';
     console.log(about);
+}
+
+/* projects
+ * Redirects the user to the web page's projects URL.  */
+function projects()
+{
+    window.location.href = '../projects/index.html';
+    console.log(projects);
 }
 
 /* links
@@ -38,6 +46,7 @@ function contact()
 }
 
 /**** MAIN ********************************************************************/
+// window.onload=listen(event);
 
 document.addEventListener('keypress',
     /* processKey
@@ -48,7 +57,8 @@ document.addEventListener('keypress',
         console.log(code);
         if (code === 'h' || code ==='H')  home();
         else if (code === 'a' || code ==='A')  about();
+        else if (code === 'p' || code ==='P')  projects();
         else if (code === 'l' || code ==='L')  links();
         else if (code === 'c' || code ==='C')  contact();
-    }
-);
+    } /*,
+false */);  // not sure why false is here

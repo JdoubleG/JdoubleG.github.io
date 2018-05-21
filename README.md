@@ -3,7 +3,7 @@ Written by:  James Garijo-Garde
         on:  12/29/2017 - 5/20/2018
 
 
-This is my personal website Version 1.1
+This is my personal website Version 1.2
 =======================================
 
 This website is designed with a functional minimalistic design that is intended
@@ -14,6 +14,11 @@ were taken from the Twitter profiles of each of the companies and modified by me
 to fit the color scheme of my website. I do not take ownership of any of these
 designs and am only responsible for the recoloring of the logos. I acknowledge
 that all rights pertaining to these images belong to the respective company.
+
+## As of 5/20/2018 (v1.2):
+
+Fixed the hotkey JavaScripting. JamesGG.net now has keyboard navigation support!
+Also improves documentation.
 
 ## As of 5/20/2018 (v1.1):
 
@@ -38,16 +43,25 @@ In future revisions, the menu bar will be animated and there will be functional
 hotkey navigation.
 
 ## Files in this project:
+* `CNAME`: this file is used by GitHub to set a custom URL of http://jamesgg.net.
 * `index.html`: this is the "Home" page.
 * `README.md`:  this file -- information regarding the project.
 * **about**:
   * `index.html`:   this is the "About" page.
   * **scripts**:
-    * `hotkeys.js`:   the hotkeys script. _This file is broken_
+    * `hotkeys.js`:   the hotkeys script.
     * `index.html`:   a 404 page; there is not intended to be a web page here.
-* **styles**:
+  * **styles**:
+      * `index.html`:   a 404 page; there is not intended to be a web page here.
+      * `style.css`:    the stylesheet for the "About" page.
+* **contact**:
+  * `index.html`:   this is the "Contact" page.
+  * **scripts**:
+    * `hotkeys.js`:   the hotkeys script.
     * `index.html`:   a 404 page; there is not intended to be a web page here.
-    * `style.css`:    the stylesheet for the "About" page.
+  * **styles**:
+      * `index.html`:   a 404 page; there is not intended to be a web page here.
+      * `style.css`:    the stylesheet for the "Contact" page.
 * **links**:
     * `index.html`:   this is the "Links" page.
     * **images**:
@@ -57,7 +71,7 @@ hotkey navigation.
       * `Medium.png`:   the Medium logo (&copy;Medium).
       * `Twitter.png`:  the Twitter logo (&copy;Twitter).
     * **scripts**:
-      * `hotkeys.js`:   the hotkeys script. _This file is broken_
+      * `hotkeys.js`:   the hotkeys script.
       * `index.html`:   a 404 page; there is not intended to be a web page here.
     * **styles**:
       * `index.html`:   a 404 page; there is not intended to be a web page here.
@@ -65,13 +79,13 @@ hotkey navigation.
 * **projects**:
   * `index.html`:   this is the "Projects" page.
   * **scripts**:
-    * `hotkeys.js`:   the hotkeys script. _This file is broken_
+    * `hotkeys.js`:   the hotkeys script.
     * `index.html`:   a 404 page; there is not intended to be a web page here.
   * **styles**:
     * `index.html`:   a 404 page; there is not intended to be a web page here.
     * `style.css`:    the stylesheet for the "Projects" page.
 * **scripts**:
-  * `hotkeys.js`: the hotkeys script. _This file is broken_
+  * `hotkeys.js`: the hotkeys script.
   * `index.html`: a 404 page; there is not intended to be a web page here.
 * **styles**:
   * `index.html`: a 404 page; there is not intended to be a web page here.
@@ -83,8 +97,8 @@ hotkey navigation.
 * [How to Make a Web Site: The Complete Beginner's Guide](https://lifehacker.com/5790955/how-to-make-a-web-site-the-complete-guide)
 * [HTML Dog](http://htmldog.com)
 * [Kostas Tsiab's Personal Website](https://ktsiam.github.io)
-* [w3schools.com](https://www.w3schools.com)
 * [MDN web docs](https://developer.mozilla.org/en-US)
+* [w3schools.com](https://www.w3schools.com)
 * [StackOverflow](https://stackoverflow.com)
 * [GitHub Pages](https://pages.github.com)
 * [Markdown (Wikipedia)](https://en.wikipedia.org/wiki/Markdown)
