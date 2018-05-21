@@ -1,6 +1,6 @@
 Written by:  James Garijo-Garde
-        for: Exclusive personal use
-        on:  12/29/2017 - 5/20/2018
+     |  for: Exclusive personal use
+     |  on:  12/29/2017 - 5/20/2018
 
 
 This is my personal website Version 1.2
