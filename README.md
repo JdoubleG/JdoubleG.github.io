@@ -19,10 +19,10 @@ that all rights pertaining to these images belong to the respective company.
 
 Lays down the initial framework for the upcoming Spanish translation of
 [JamesGG.net](http://jamesgg.net), [es.JamesGG.net](http://es.jamesgg.net), or
-maybe just [JamesGG.net/es] -- that much has not been decided yet. Also updates
-the projects page to include new things I've worked on recently and adds an
-alert message for users of Internet Explorer and Edge (these browsers do not
-display page elements correctly with consistency).
+maybe just [JamesGG.net/es](http://jamesgg.net/es) -- that much has not been
+decided yet. Also updates the projects page to include new things I've worked on
+recently and adds an alert message for users of Internet Explorer and Edge
+(these browsers do not display page elements correctly with consistency).
 
 ## As of 5/20/2018 (v1.2):
 
