@@ -1,9 +1,9 @@
 Written by:  James Garijo-Garde
      |  for: exclusive personal use
-     |  on:  12/29/2017 - 5/21/2018
+     |  on:  12/29/2017 - 5/24/2018
 
 
-This is my personal website, Version 1.2
+This is my personal website, Version 1.3
 ========================================
 
 This website is designed with a functional minimalistic design that is intended
@@ -15,10 +15,19 @@ to fit the color scheme of my website. I do not take ownership of any of these
 designs and am only responsible for the recoloring of the logos. I acknowledge
 that all rights pertaining to these images belong to the respective company.
 
+## As of 5/24/2018 (v1.3):
+
+Lays down the initial framework for the upcoming Spanish translation of
+[JamesGG.net](http://jamesgg.net), [es.JamesGG.net](http://jamesgg.net/es), or
+maybe just [JamesGG.net/es] -- that much has not been decided yet. Also updates
+the projects page to include new things I've worked on recently and adds an
+alert message for users of Internet Explorer and Edge (these browsers do not
+display page elements correctly with consistency).
+
 ## As of 5/20/2018 (v1.2):
 
-Fixed the hotkey JavaScripting. JamesGG.net now has keyboard navigation support!
-Also improves documentation.
+Fixed the hotkey JavaScripting. [JamesGG.net](http://jamesgg.net) now has
+keyboard navigation support! Also improves documentation.
 
 ## As of 5/20/2018 (v1.1):
 
