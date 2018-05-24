@@ -110,4 +110,5 @@ be added.
 * [w3schools.com](https://www.w3schools.com)
 * [StackOverflow](https://stackoverflow.com)
 * [GitHub Pages](https://pages.github.com)
+* [Namecheap Knowledgebases](https://www.namecheap.com/support/knowledgebase.aspx)
 * [Markdown (Wikipedia)](https://en.wikipedia.org/wiki/Markdown)
