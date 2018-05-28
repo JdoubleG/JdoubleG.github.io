@@ -1,9 +1,9 @@
 Written by:  James Garijo-Garde
      |  for: exclusive personal use
-     |  on:  12/29/2017 - 5/24/2018
+     |  on:  12/29/2017 - 5/28/2018
 
 
-This is my personal website, Version 1.3
+This is my personal website, Version 2.0
 ========================================
 
 This website is designed with a functional minimalistic design that is intended
@@ -14,6 +14,13 @@ were taken from the Twitter profiles of each of the companies and modified by me
 to fit the color scheme of my website. I do not take ownership of any of these
 designs and am only responsible for the recoloring of the logos. I acknowledge
 that all rights pertaining to these images belong to the respective company.
+
+## As of 5/28/2018 (v2.0):
+Ties in all the new updates since Version 1.0 and adds a new animated and more
+user-friendly menu bar. Completes the "About" page. Some stylistic adjustments
+have also been made. [JamesGG.net](http://jamesgg.net) now also uses the default
+GitHub Pages 404 page instead of the incorrectly set-up (albeit awesome) custom
+page.
 
 ## As of 5/24/2018 (v1.3):
 
@@ -48,56 +55,50 @@ Added an initial design of the homepage.
 
 ## For the future:
 
-In future revisions, the menu bar will be animated and additional content will
-be added.
+A Spanish translation of [JamesGG.net](http://jamesgg.net) is on the way. Fixes
+for scaling issues on mobile devices and fade effects are also coming.
 
 ## Files in this project:
-* `CNAME`: this file is used by GitHub to set a custom URL of http://jamesgg.net.
+* `CNAME`: this file is used by GitHub to set a custom URL of
+http://jamesgg.net.
 * `index.html`: this is the "Home" page.
 * `README.md`:  this file -- information regarding the project.
 * **about**:
   * `index.html`:   this is the "About" page.
+  * **images**:
+    * `ted2.png`:   a picture of me.
   * **scripts**:
     * `hotkeys.js`:   the hotkeys script.
-    * `index.html`:   a 404 page; there is not intended to be a web page here.
   * **styles**:
-      * `index.html`:   a 404 page; there is not intended to be a web page here.
       * `style.css`:    the stylesheet for the "About" page.
 * **contact**:
   * `index.html`:   this is the "Contact" page.
   * **scripts**:
     * `hotkeys.js`:   the hotkeys script.
-    * `index.html`:   a 404 page; there is not intended to be a web page here.
   * **styles**:
-      * `index.html`:   a 404 page; there is not intended to be a web page here.
       * `style.css`:    the stylesheet for the "Contact" page.
+* **es**:
+  * `index.html`:   this is a temporary placeholder page for the upcoming Spanish translation.
 * **links**:
     * `index.html`:   this is the "Links" page.
     * **images**:
       * `GitHub.png`:   the GitHub logo (&copy;GitHub).
-      * `index.html`:   a 404 page; there is not intended to be a web page here.
       * `LinkedIn.png`: the LinkedIn logo (&copy;LinkedIn).
       * `Medium.png`:   the Medium logo (&copy;Medium).
       * `Twitter.png`:  the Twitter logo (&copy;Twitter).
     * **scripts**:
       * `hotkeys.js`:   the hotkeys script.
-      * `index.html`:   a 404 page; there is not intended to be a web page here.
     * **styles**:
-      * `index.html`:   a 404 page; there is not intended to be a web page here.
       * `style.css`:    the stylesheet for the "About" page.
 * **projects**:
   * `index.html`:   this is the "Projects" page.
   * **scripts**:
     * `hotkeys.js`:   the hotkeys script.
-    * `index.html`:   a 404 page; there is not intended to be a web page here.
   * **styles**:
-    * `index.html`:   a 404 page; there is not intended to be a web page here.
     * `style.css`:    the stylesheet for the "Projects" page.
 * **scripts**:
   * `hotkeys.js`: the hotkeys script.
-  * `index.html`: a 404 page; there is not intended to be a web page here.
 * **styles**:
-  * `index.html`: a 404 page; there is not intended to be a web page here.
   * `style.css`:  the stylesheet for the "Home" page.
 
 
@@ -111,4 +112,4 @@ be added.
 * [StackOverflow](https://stackoverflow.com)
 * [GitHub Pages](https://pages.github.com)
 * [Namecheap Knowledgebases](https://www.namecheap.com/support/knowledgebase.aspx)
-* [Markdown (Wikipedia)](https://en.wikipedia.org/wiki/Markdown)
+* [Markdown (Wikipedia)](https://en.wikipedia.org/wiki/Markdown)s
