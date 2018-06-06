@@ -112,4 +112,5 @@ http://jamesgg.net.
 * [StackOverflow](https://stackoverflow.com)
 * [GitHub Pages](https://pages.github.com)
 * [Namecheap Knowledgebases](https://www.namecheap.com/support/knowledgebase.aspx)
-* [Markdown (Wikipedia)](https://en.wikipedia.org/wiki/Markdown)s
+* [Markdown (Wikipedia)](https://en.wikipedia.org/wiki/Markdown)
+* [Symbol Codes: Computing with Accents, Symbols and Foreign Scripts](http://sites.psu.edu/symbolcodes/codehtml/)

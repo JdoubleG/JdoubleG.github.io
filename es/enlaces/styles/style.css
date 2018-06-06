@@ -1,17 +1,17 @@
-/* Stylesheet for my personal website's home page.
+/* Stylesheet for my personal website's links page.
  *
  * Written by:  James Garijo-Garde
  *         for: Exclusive personal use
- *         on:  12/29/2018 - 5/28/2018
+ *         on:  1/1/2018 - 5/28/2018
  */
 
 /* GLOBAL STYLES */
 body {
     font-family: "Trebuchet MS", "Verdana", "Tahoma", sans-serif;
-    font-size: 20pt;
+    font-size: 18pt;
     color: #999999;
     background-color: #333333;
-    overflow: auto;
+    overflow:auto;
     margin: 0 0 0 0;
 }
 a {
@@ -20,7 +20,7 @@ a {
 }
 abbr {
     border: none;
-    text-decoration: none !important;
+    text-decoration: none;
 }
 
 /* Menu Styles */
@@ -47,7 +47,7 @@ abbr {
     -ms-transition: .5s ease-in-out;
 }
 #menu:hover {
-    width: 265px;
+    width: 305px;
 }
 div#menu ul {
     list-style: none;
@@ -74,17 +74,22 @@ div#menu:hover a.some {
     transition-delay: .5s;
 }
 /* Home Text Styles */
-div#hometext { /* div prefix deleted */
-    /* position: relative; */
-    margin: 37vh auto 0 140px;
-    text-shadow: 0 0 14px black;
+div#pagetext {
+    margin: 20px auto 0 190px;
+    text-shadow: 0 0 14px black; 
 }
-h1#name {
+h1#links {
     font-weight: bold;
     color: #ffffff;
     font-size: 42pt;
-    text-align: center;
+    text-align: left;
 }
-p#desc {
-    text-align: center;
+li.sites {
+    display: inline;
+    /* text-align: left;
+    line-height: 32pt; */
+}
+li.sites img {
+    width: 250px;
+    height: 250px;
 }

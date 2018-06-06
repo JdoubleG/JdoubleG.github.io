@@ -7,11 +7,11 @@
 
 window.onload = function()
 {
-    $('#hometext h1').delay(0).animate({ opacity: 1 }, 700);​
+    document.getElementById("hometext").children[0].className += " load";
     window.setTimeout(fadeDetails(), 1000);
 }
 
 function fadeDetails()
 {
-    $('#hometext p').delay(1000).animate({ opacity: 1 }, 700);​
+    document.getElementById("hometext").children[1].className += " load";
 }

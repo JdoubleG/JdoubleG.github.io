@@ -2,7 +2,7 @@
  *
  * Written by:  James Garijo-Garde
  *         for: Exclusive personal use
- *         on:  12/29/2018 - 5/28/2018
+ *         on:  6/5/2018
  */
 
 /* GLOBAL STYLES */
@@ -47,7 +47,7 @@ abbr {
     -ms-transition: .5s ease-in-out;
 }
 #menu:hover {
-    width: 265px;
+    width: 305px;
 }
 div#menu ul {
     list-style: none;
