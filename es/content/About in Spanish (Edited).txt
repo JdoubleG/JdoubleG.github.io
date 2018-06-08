@@ -1,0 +1,15 @@
+
+        <div id="menu">
+                title="Inicio"
+                title="Sobre"
+                title="Proyectos"
+                title="Enlaces"
+                title="Contactar"
+        </div>
+        <!-- Text in the center of the about page is in pagetext -->
+        <div id="pagetext">
+            <h1 id="about">Sobre</h1>
+            <br><br>
+            James Garijo-Garde creció en Fairfield County, Connecticut.  En la actualidad  James  estudia en la Universidad Tufts in Boston donde va a licenciarse en licenciatura en  informática y en ciencias del conocimiento.  James también dirige y presenta  "James Jams"un programa de radio en WMFO y es co-líder de Tufts Climate Action, un grupo activista en el area del cambio climático. Entre sus aficiones esta el esgrima con el equipo del "club" de Tufts, una buena comida, película, un libro, o un video juego.
+
+        </div>

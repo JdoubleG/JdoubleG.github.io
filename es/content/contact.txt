@@ -1,0 +1,22 @@
+
+        <div id="menu">
+                title="Inicio"
+                title="Sobre"
+                title="Proyectos"
+                title="Enlaces"
+                title="Contactar"
+        </div>
+        <!-- Text in the center of the projects page is in pagetext -->
+        <div id="pagetext">
+            <h1 id="contact">Contactar</h1>
+            <div id="gForm">
+                Enviar un mensaje:
+                <iframe id="form" src="https://docs.google.com/forms/d/e/1FAIpQLSdqw4a5DUr8nzBhZKSn89t2zqa9j8fQYzO1mql1oN0gYWrBpQ/viewform?embedded=true"></iframe>
+            </div>
+            <div id="paypal">
+                Donar con PayPal:
+                <form id="button" action="https://www.paypal.com/cgi-bin/webscr"></form>
+                <br>
+            </div>
+        </div>
+   
