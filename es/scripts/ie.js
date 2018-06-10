@@ -5,9 +5,11 @@
  *
  * Written by:  James Garijo-Garde
  *         for: Exclusive personal use
- *         on:  5/24/2018
+ *         on:  6/6/2018 - 6/9/2018
  */
 
- if (navigator.appName == 'Microsoft Internet Explorer' || navigator.appVersion.indexOf('Trident') > -1 || navigator.appVersion.indexOf('Edge') > -1) {
-    alert('JamesGG.net does not offer full support of Microsoft Internet Explorer or Edge. Using these browsers to view this website may result in page items being displayed incorrectly.');
+ if (navigator.appName == 'Microsoft Internet Explorer' ||
+     navigator.appVersion.indexOf('Trident') > -1 ||
+     navigator.appVersion.indexOf('Edge') > -1) {
+     alert('JamesGG.net no offrece apoyo completamente de Microsoft Internet Explorer o Edge. El usando de estos navegadores para ver esta pagina web puede resulta en errores.');
  }

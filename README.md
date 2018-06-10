@@ -1,9 +1,9 @@
 Written by:  James Garijo-Garde
      |  for: exclusive personal use
-     |  on:  12/29/2017 - 5/28/2018
+     |  on:  12/29/2017 - 6/9/2018
 
 
-This is my personal website, Version 2.0
+This is my personal website, Version 2.2
 ========================================
 
 This website is designed with a functional minimalistic design that is intended
@@ -14,6 +14,12 @@ were taken from the Twitter profiles of each of the companies and modified by me
 to fit the color scheme of my website. I do not take ownership of any of these
 designs and am only responsible for the recoloring of the logos. I acknowledge
 that all rights pertaining to these images belong to the respective company.
+
+## As of 6/9/2018 (v2.2):
+Cleans up some documentation in the code because professionalism, folks.
+
+## As of 6/8/2018 (v2.1):
+The Spanish version of [es.JamesGG.net](http://es.jamesgg.net) is now live!
 
 ## As of 5/28/2018 (v2.0):
 Ties in all the new updates since Version 1.0 and adds a new animated and more
@@ -55,8 +61,8 @@ Added an initial design of the homepage.
 
 ## For the future:
 
-A Spanish translation of [JamesGG.net](http://jamesgg.net) is on the way. Fixes
-for scaling issues on mobile devices and fade effects are also coming.
+Fixes for scaling issues on mobile devices and fade effects are on the way.
+Clean-up of stylesheets is also needed.
 
 ## Files in this project:
 * `CNAME`: this file is used by GitHub to set a custom URL of
@@ -78,7 +84,43 @@ http://jamesgg.net.
   * **styles**:
       * `style.css`:    the stylesheet for the "Contact" page.
 * **es**:
-  * `index.html`:   this is a temporary placeholder page for the upcoming Spanish translation.
+  * `index.html`:   the "Home" page of [es.JamesGG.net](http://es.jamesgg.net).
+  * **contact**:
+    * `index.html`:   this is the "Contact" page of [es.JamesGG.net](http://es.jamesgg.net).
+    * **scripts**:
+      * `hotkeys.js`:   the hotkeys script.
+    * **styles**:
+        * `style.css`:    the stylesheet for the "Contact" page.
+  * **enlaces**:
+    * `index.html`:   this is the "Links" page of [es.JamesGG.net](http://es.jamesgg.net).
+    * **images**:
+      * `GitHub.png`:   the GitHub logo (&copy;GitHub).
+      * `LinkedIn.png`: the LinkedIn logo (&copy;LinkedIn).
+      * `Medium.png`:   the Medium logo (&copy;Medium).
+      * `Twitter.png`:  the Twitter logo (&copy;Twitter).
+    * **scripts**:
+      * `hotkeys.js`:   the hotkeys script.
+    * **styles**:
+      * `style.css`:    the stylesheet for the "About" page.
+  * **proyectos**:
+    * `index.html`:   this is the "Projects" page of [es.JamesGG.net](http://es.jamesgg.net).
+    * **scripts**:
+      * `hotkeys.js`:   the hotkeys script.
+    * **styles**:
+      * `style.css`:    the stylesheet for the "Projects" page.
+  * **scripts**:
+    * `hotkeys.js`: the hotkeys script.
+    * `ie.js`:      a browser check for Trident browsers.
+  * **sobre**:
+    * `index.html`:   this is the "About" page [es.JamesGG.net](http://es.jamesgg.net).
+    * **images**:
+      * `ted2.png`:   a picture of me.
+    * **scripts**:
+      * `hotkeys.js`:   the hotkeys script.
+    * **styles**:
+        * `style.css`:    the stylesheet for the "About" page.
+  * **styles**:
+    * `style.css`:  the stylesheet for the "Home" page of [es.JamesGG.net](http://es.jamesgg.net).
 * **links**:
     * `index.html`:   this is the "Links" page.
     * **images**:
@@ -97,9 +139,13 @@ http://jamesgg.net.
   * **styles**:
     * `style.css`:    the stylesheet for the "Projects" page.
 * **scripts**:
+  * `fade.js`:    a JavaScript file for fade effects. This file is not currently used.
   * `hotkeys.js`: the hotkeys script.
+  * `ie.js`:      a browser check for Trident browsers.
 * **styles**:
-  * `style.css`:  the stylesheet for the "Home" page.
+  * `animate.min.css`:  a stylesheet for CSS fade effects. This file is not currently used. See [animate.css](https://github.com/daneden/animate.css).
+  * `style.css`:        the stylesheet for the "Home" page.
+  * `w3.css`:           a stylesheet for CSS fade effects. This file is not currently used. See [w3.css](https://www.w3schools.com/W3CSS).
 
 
 ## References:
@@ -113,4 +159,5 @@ http://jamesgg.net.
 * [GitHub Pages](https://pages.github.com)
 * [Namecheap Knowledgebases](https://www.namecheap.com/support/knowledgebase.aspx)
 * [Markdown (Wikipedia)](https://en.wikipedia.org/wiki/Markdown)
+* [Matthew Lee's Personal Website](https://mattrlee3.github.io)
 * [Symbol Codes: Computing with Accents, Symbols and Foreign Scripts](http://sites.psu.edu/symbolcodes/codehtml/)

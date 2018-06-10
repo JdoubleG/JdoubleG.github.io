@@ -2,7 +2,7 @@
  *
  * Written by:  James Garijo-Garde
  *         for: Exclusive personal use
- *         on:  6/5/2018
+ *         on:  6/5/2018 - 6/9/2018
  */
 
 /* about
@@ -22,7 +22,7 @@ function projects()
 }
 
 /* links
- * Redirects the user to the web page's lins URL.  */
+ * Redirects the user to the web page's links URL.  */
 function links()
 {
     window.location.href = 'enlaces/index.html';
