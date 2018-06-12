@@ -1,9 +1,9 @@
 Written by:  James Garijo-Garde
      |  for: exclusive personal use
-     |  on:  12/29/2017 - 6/9/2018
+     |  on:  12/29/2017 - 6/11/2018
 
 
-This is my personal website, Version 2.2
+This is my personal website, Version 2.3
 ========================================
 
 This website is designed with a functional minimalistic design that is intended
@@ -14,6 +14,9 @@ were taken from the Twitter profiles of each of the companies and modified by me
 to fit the color scheme of my website. I do not take ownership of any of these
 designs and am only responsible for the recoloring of the logos. I acknowledge
 that all rights pertaining to these images belong to the respective company.
+
+## As of 6/11/2018 (v2.3):
+Minor bug fix to menu behavior on home page.
 
 ## As of 6/9/2018 (v2.2):
 Cleans up some documentation in the code because professionalism, folks.
