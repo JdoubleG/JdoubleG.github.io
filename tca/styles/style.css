@@ -8,6 +8,7 @@
 /* GLOBAL STYLES */
 body {
     font-family: "Arial", sans-serif;
+    overflow-x: hidden;
     /* font-size: 14pt;
     color: #999999;
     background-color: #333333;
@@ -100,10 +101,11 @@ div#menu:hover a.some {
     display: block;
     background-color: #6699cc;
     position: relative;
-    top: 140px;
+    top: 130px;
     margin: auto;
     width: 70vw;
-    height: 35vw;
+    /* height: 34vw; */
+    height: 550px;
 }
 #frontpic {
     float: right;
@@ -115,7 +117,7 @@ div#menu:hover a.some {
     position: absolute;
     top: 30px;
     /*right: 51.5vw;*/
-    margin: auto 0 auto 10px;
+    margin: auto 0 auto 15px;
     width: 17vw;
 }
 #setup {
@@ -124,11 +126,51 @@ div#menu:hover a.some {
     margin: auto 0 auto 10px;
     color: #ffffff;
     font-size: 3vw;
+    font-weight: bold;
+    font-style: italic;
 }
 #mission {
     position: absolute;
     top: 30vw;
-    margin: auto 0 auto 12px;
+    margin: auto 0 auto 16px;
     color: #ffffff;
     font-size: 2vw;
+    font-weight: normal;
+}
+
+/* Lower Page Styles */
+#lower_page {
+    background-color: #cccccc;
+    position: relative;
+    top: 160px;
+    left: -10px;
+    bottom: -10px;
+    bottom: 0;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    width: 100vw;
+    height: 860px;
+    /* color: #ff6633; */
+}
+#facebook {
+    /* width and height are adjusted from the iframe href */
+    position: relative;
+    top: 20px;
+    left: 52vw;
+    margin: 10px;
+    width: 500px;
+    height: 800px;
+    border: none;
+    overflow: hidden;
+}
+#petition {
+    position: relative;
+    top: 20px;
+    right: 18vw;
+    margin: 10px;
+    width: 500px;
+    height: 800px;
+    border: none;
+    overflow: hidden;
 }
