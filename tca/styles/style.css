@@ -2,7 +2,7 @@
  *
  * Written by:  James Garijo-Garde
  *         for: Tufts Climate Action
- *         on:  7/16/2018 - 8/6/2018
+ *         on:  7/16/2018 - 8/11/2018
  */
 
 /* GLOBAL STYLES */
@@ -32,7 +32,7 @@ abbr {
     width: 100vw;
     height: 120px;
     background-color: #ff6633;
-    z-index: 1;
+    z-index: 99;
     /* float: left; */
     /* margin: -17% 0 0 0;
     padding: 0 0 0 0;
@@ -59,7 +59,7 @@ abbr {
     padding: 0;
     margin: 0;
 }
-#menu a{
+#menu a {
     color: #ffffff;
     text-decoration: none;
 }
@@ -108,34 +108,41 @@ div#menu:hover a.some {
     height: 550px;
 }
 #frontpic {
-    float: right;
+    position: absolute;
+    left: 20vw;
     margin: 1.5vh 4px 4px 1.5vw;
-    width: 49vw;
+    width: 48vw;
     height: auto;
+    z-index: 0;
 }
 #logo {
-    position: absolute;
+    position: relative;
     top: 30px;
     /*right: 51.5vw;*/
     margin: auto 0 auto 15px;
     width: 17vw;
+    z-index: 1;
 }
 #setup {
-    position: absolute;
-    top: 23vw;
-    margin: auto 0 auto 10px;
+    position: relative;
+    top: 12vh;
+    margin: auto 10px auto 12px;
     color: #ffffff;
-    font-size: 3vw;
+    font-size: 32pt; /* 3vw */
     font-weight: bold;
     font-style: italic;
+    z-index: 1;
 }
 #mission {
     position: absolute;
-    top: 30vw;
+    top: 450px;
+    margin: 0;
+    width: 65vw;
     margin: auto 0 auto 16px;
     color: #ffffff;
-    font-size: 2vw;
+    font-size: 24pt; /* 2vw */
     font-weight: normal;
+    /* z-index: 1; */
 }
 
 /* Lower Page Styles */
@@ -144,8 +151,8 @@ div#menu:hover a.some {
     position: relative;
     top: 160px;
     left: -10px;
-    bottom: -10px;
-    bottom: 0;
+    /* bottom: -10px;
+    bottom: 0; */
     margin: 0;
     border: 0;
     padding: 0;
@@ -173,4 +180,73 @@ div#menu:hover a.some {
     height: 800px;
     border: none;
     overflow: hidden;
+}
+
+/* Footer Styles */
+#footer {
+    background-color: #666666;
+    position: relative;
+    top: 160px;
+    left: -10px;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    width: 100vw;
+    height: 160px;
+}
+#foot_spacer {
+    display: block;
+    position: relative;
+    margin: 0 auto 0 auto;
+    width: 50vw;
+    height: 160px;
+    /* background-color: #6699cc; */
+}
+#foot_logo {
+    height: 140px;
+    width: auto;
+    margin: 10px auto auto 10px;
+}
+#foot_links ul {
+    position: absolute;
+    top: 90px;
+    left: 26vw;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#foot_links a {
+    color: #ffffff;
+    text-decoration: none;
+}
+#foot_links li {
+    display: inline;
+    margin: 0 0 0 2vw;
+    font-size: 18pt;
+}
+#footer p {
+    position: absolute;
+    top: 130px;
+    left: 34vw;
+    padding: 0;
+    margin: 0;
+    color: #ffffff;
+    font-size: 10pt;
+}
+#social_links {
+    position: absolute;
+    top: 0;
+    left: 28vw;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#social_links li {
+    display: inline;
+    margin: 0 0 0 2vw;
+    font-size: 18pt;
+}
+.social_media {
+    height: 60px;
+    width: auto;
 }
