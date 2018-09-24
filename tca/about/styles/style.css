@@ -2,13 +2,15 @@
  *
  * Written by:  James Garijo-Garde
  *         for: Tufts Climate Action
- *         on:  7/16/2018 - 8/13/2018
+ *         on:  8/22/2018 - 8/23/2018
  */
 
 /* GLOBAL STYLES */
 body {
     font-family: "Arial", sans-serif;
     overflow-x: hidden;
+    background-color: #ffffff;
+
 }
 
 /* Menu Styles */
@@ -44,91 +46,102 @@ body {
     margin: 25px auto 25px 40px;
 }
 
-/* Frontpage Styles */
-#frontpage {
+/* Page Body Styles */
+#page_body {
+    height: 1030px;
+}
+#headline {
     display: block;
     background-color: #6699cc;
     position: relative;
     top: 130px;
+    right: 15vw;
     margin: auto;
-    width: 70vw;
-    height: 550px; /* 34vw */
-}
-#frontpic {
-    position: absolute;
-    left: 20vw;
-    margin: 1.5vh 4px 4px 1.5vw;
-    width: 48vw;
-    height: auto;
-    z-index: 0;
-}
-#logo {
-    position: relative;
-    top: 30px;
-    margin: auto 0 auto 15px;
-    width: 17vw;
-    z-index: 1;
-}
-#setup {
-    position: relative;
-    top: 12vh;
-    margin: auto 10px auto 12px;
+    width: 27vw;
+    height: 470px; /* 34vw */
     color: #ffffff;
-    font-size: 32pt; /* 3vw */
+}
+#headline h1 {
+    position: relative;
+    top: 10px;
+    margin: auto 30px auto 30px;
+    text-align: center;
+    font-size: 36pt;
     font-weight: bold;
-    font-style: italic;
+    /* font-style: italic; */
     z-index: 1;
 }
-#mission {
-    position: absolute;
-    top: 450px;
-    margin: 0;
-    width: 65vw;
-    margin: auto 0 auto 16px;
-    color: #ffffff;
-    font-size: 24pt; /* 2vw */
-    font-weight: normal;
+#headline p {
+    text-align: justify;
+    margin: 30px 1vw 0 1vw;
+    font-size: 18pt;
 }
-
-/* Lower Page Styles */
-#lower_page {
-    background-color: #cccccc;
-    position: relative;
-    top: 160px;
-    left: -10px;
-    margin: 0;
-    border: 0;
-    padding: 0;
-    width: 100vw;
-    height: 860px;
-}
-#facebook {
-    /* width and height are adjusted from the iframe href */
+#about_img {
+    /* float: left; */
     position: relative;
     top: 20px;
-    left: 52vw;
-    margin: 10px;
-    width: 500px;
-    height: 800px;
-    border: none;
-    overflow: hidden;
-}
-#petition {
-    position: relative;
-    top: 20px;
-    right: 18vw;
-    margin: 10px;
-    width: 500px;
-    height: 800px;
+    /* left: 37vw; */
+    /* margin: 20px 10px 0 2.5vw; */
+    margin: 0 .5vw 0 .5vw;
+    /* height: 300px; */
+    width: 26vw;
     border: none;
     overflow: hidden;
 }
 
+#resources {
+    display: block;
+    background-color: #ff9999;
+    position: relative;
+    top: -390px; /* 360px */
+    left: 15vw;
+    margin: auto;
+    width: 27vw;
+    height: 470px; /* 34vw */
+    color: #000000;
+}
+#resources ul {
+    position: relative;
+    top: 50px;
+    list-style: square;
+}
+#resources a {
+    color: #000000;
+    text-decoration: none;
+}
+#resources li {
+    font-size: 24pt;
+    margin: 50px 5px 0 1.5vw;
+}
+
+#history {
+    display: block;
+    background-color: #99ff99;
+    position: relative;
+    top: -340px;
+    margin: auto;
+    width: 57vw;
+    height: 380px; /* 34vw */
+    color: #000000;
+}
+#history h1 {
+    position: relative;
+    top: 10px;
+    margin: auto 30px auto 30px;
+    font-size: 36pt;
+    font-weight: bold;
+    /* font-style: italic; */
+    z-index: 1;
+}
+#history p {
+    text-align: justify;
+    margin: 20px 2.5vw 0 2.5vw;
+}
 /* Footer Styles */
 #footer {
     background-color: #666666;
     position: relative;
-    top: 160px;
+    top: 10px;
     left: -10px;
     margin: 0;
     border: 0;
