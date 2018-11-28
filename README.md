@@ -1,9 +1,9 @@
 Written by:  James Garijo-Garde
      |  for: exclusive personal use
-     |  on:  12/29/2017 - 8/23/2018
+     |  on:  12/29/2017 - 11/26/2018
 
 
-This is my personal website, Version 2.4
+This is my personal website, Version 2.5
 ========================================
 
 This website is designed with a functional minimalistic design that is intended
@@ -14,6 +14,11 @@ were taken from the Twitter profiles of each of the companies and modified by me
 to fit the color scheme of my website. I do not take ownership of any of these
 designs and am only responsible for the recoloring of the logos. I acknowledge
 that all rights pertaining to these images belong to the respective company.
+
+## As of 11/26/2018 (v2.5):
+Adds the `files` folder to host files and removes the temporary hosting of the
+in-progress Tufts Climate Action website. Sets links on [es.JamesGG.net](http://es.jamesgg.net)
+to open in new tabs.
 
 ## As of 8/23/2018 (v2.4):
 Adapts links to open in new windows/tabs.
@@ -127,6 +132,7 @@ http://jamesgg.net.
         * `style.css`:    the stylesheet for the "About" page.
   * **styles**:
     * `style.css`:  the stylesheet for the "Home" page of [es.JamesGG.net](http://es.jamesgg.net).
+* **files**:    a folder for hosting files on [JamesGG.net](http://jamesgg.net).
 * **links**:
     * `index.html`:   this is the "Links" page.
     * **images**:

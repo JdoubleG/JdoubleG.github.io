@@ -37,7 +37,6 @@ function contact()
     console.log(contact);
 }
 
-/**** MAIN ********************************************************************/
 
 document.addEventListener('keypress',
     /* processKey
