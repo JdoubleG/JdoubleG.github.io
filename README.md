@@ -1,9 +1,9 @@
 Written by:  James Garijo-Garde
      |  for: exclusive personal use
-     |  on:  12/29/2017 - 7/6/2019
+     |  on:  12/29/2017 - 6/9/2020
 
 
-This is my personal website, Version 2.6
+This is my personal website, Version 2.7
 ========================================
 
 This website is designed with a functional minimalistic design that is intended
@@ -15,6 +15,10 @@ were taken from the Twitter profiles of each of the companies and modified by me
 to fit the color scheme of my website. I do not take ownership of any of these
 designs and am only responsible for the recoloring of the logos. I acknowledge
 that all rights pertaining to these images belong to the respective company.
+
+## As of 6/9/2020 (v2.7):
+Another update to the contents of the pages to make them more inline with my
+life. Changes are primarily centered around the "Home" and "About" pages.
 
 ## As of 7/6/2019 (v2.6):
 Updates the content of the "About" and "Projects" pages in for both English and
@@ -77,8 +81,9 @@ Added an initial design of the homepage.
 
 ## For the future:
 
-Fixes for scaling issues on mobile devices and fade effects are on the way.
-Clean-up of stylesheets is also needed.
+* I will likely update the "Projects" page in the near future. Updates to [es.JamesGG.net](http://es.jamesgg.net)
+are pending as well.
+* A version 3.0 written in a JavaScript library is an intended future release.
 
 ## Files in this project:
 * `CNAME`: this file is used by GitHub to set a custom URL of
