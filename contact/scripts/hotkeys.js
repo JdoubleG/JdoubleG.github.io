@@ -2,7 +2,7 @@
  *
  * Written by:  James Garijo-Garde
  *         for: Exclusive personal use
- *         on:  5/20/2018 - 6/9/2018
+ *         on:  5/20/2018 - 10/10/2020
  */
 
 /* home
@@ -37,14 +37,6 @@ function links()
     console.log(links);
 }
 
-/* contact
- * Redirects the user to the web page's contact URL.  */
-function contact()
-{
-    window.location.href = '../contact/index.html';
-    console.log(contact);
-}
-
 /**** MAIN ********************************************************************/
 
 document.addEventListener('keypress',
@@ -58,6 +50,5 @@ document.addEventListener('keypress',
         else if (code === 'a' || code ==='A')  about();
         else if (code === 'p' || code ==='P')  projects();
         else if (code === 'l' || code ==='L')  links();
-        else if (code === 'c' || code ==='C')  contact();
     }
 );
