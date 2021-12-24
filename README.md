@@ -1,9 +1,9 @@
 Written by:  James Garijo-Garde
      |  for: exclusive personal use
-     |  on:  12/29/2017 - 10/11/2020
+     |  on:  12/29/2017 - 12/23/2021
 
 
-This is my personal website, Version 2.8
+This is my personal website, Version 2.9
 ========================================
 
 This website is designed with a functional minimalistic design that is intended
@@ -15,6 +15,13 @@ were taken from the Twitter profiles of each of the companies and modified by me
 to fit the color scheme of my website. I do not take ownership of any of these
 designs and am only responsible for the recoloring of the logos. I acknowledge
 that all rights pertaining to these images belong to the respective company.
+
+## As of 12/23/2021 (v2.9):
+Updated home page and site headers. Rewritten "About" page content. Internet of
+Things project added to "Projects"; project list reordered. Tweaks to the
+documentation of the Trident engine check corresponding with Microsoft's switch
+to the Chromium engine, which displays this website fine. Shorter LinkedIn link
+used.
 
 ## As of 10/10/2020 (v2.8):
 A new handout is linked in the "Projects" page with information about my
