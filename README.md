@@ -1,10 +1,10 @@
 Written by:  James Garijo-Garde
      |  for: exclusive personal use
-     |  on:  12/29/2017 - 12/23/2021
+     |  on:  12/29/2017 - 10/16/2022
 
 
-This is my personal website, Version 2.9
-========================================
+This is my personal website, Version 2.10
+=========================================
 
 This website is designed with a functional minimalistic design that is intended
 to retain stylish form while not sacrificing functionality. It is static HTML
@@ -15,6 +15,10 @@ were taken from the Twitter profiles of each of the companies and modified by me
 to fit the color scheme of my website. I do not take ownership of any of these
 designs and am only responsible for the recoloring of the logos. I acknowledge
 that all rights pertaining to these images belong to the respective company.
+
+## As of 12/23/2021 (v2.10):
+New job, new city ;) Changed occurrences of "software developer" to "software
+engineer".
 
 ## As of 12/23/2021 (v2.9):
 Updated home page and site headers. Rewritten "About" page content. Internet of
