@@ -1,9 +1,9 @@
 Written by:  James Garijo-Garde
      |  for: exclusive personal use
-     |  on:  12/29/2017 - 10/16/2022
+     |  on:  12/29/2017 - 12/21/2022
 
 
-This is my personal website, Version 2.10
+This is my personal website, Version 2.11
 =========================================
 
 This website is designed with a functional minimalistic design that is intended
@@ -15,6 +15,10 @@ were taken from the Twitter profiles of each of the companies and modified by me
 to fit the color scheme of my website. I do not take ownership of any of these
 designs and am only responsible for the recoloring of the logos. I acknowledge
 that all rights pertaining to these images belong to the respective company.
+
+## As of 12/23/2021 (v2.11):
+Revamped "Projects" page: added UPM, added PSL coursework, and removed OIRE
+work. Created a new subpage for PSL projects (`psl.html`).
 
 ## As of 12/23/2021 (v2.10):
 New job, new city ;) Changed occurrences of "software developer" to "software
@@ -178,6 +182,7 @@ http://jamesgg.net.
       * `style.css`:    the stylesheet for the "About" page.
 * **projects**:
   * `index.html`:   this is the "Projects" page.
+  * `psl.html`:     subpage for PSL projects.
   * **scripts**:
     * `hotkeys.js`:   the hotkeys script.
   * **styles**:
