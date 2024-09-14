@@ -1,9 +1,9 @@
 Written by:  James Garijo-Garde
      |  for: exclusive personal use
-     |  on:  12/29/2017 - 12/13/2023
+     |  on:  12/29/2017 - 9/14/2024
 
 
-This is my personal website, Version 2.12
+This is my personal website, Version 2.13
 =========================================
 
 This website is designed with a functional minimalistic design that is intended
@@ -17,6 +17,10 @@ any of these designs and am only responsible for the recoloring of the logos. I
 acknowledge that all rights pertaining to these images belong to the respective
 company.
 
+## As of 9/14/2024 (v2.13):
+Temporarily removed Spanish translation of website since it was unmaintained and
+out of date. Updated "About" and "Projects" pages.
+
 ## As of 12/13/2023 (v2.12):
 New prompt to press a button or click a letter to navigate the website. The
 homepage now shows up as "JamesGG.net". I've started using Threads in place of
@@ -24,7 +28,7 @@ Twitter, so my website reflects this; I updated the links icons as a whole.
 Added feature engineering type system project. Slight tweak to about page
 content. Minor tweaks to README.
 
-## As of 12/23/2022 (v2.11):
+## As of 12/23/2021 (v2.11):
 Revamped "Projects" page: added UPM, added PSL coursework, and removed OIRE
 work. Created a new subpage for PSL projects (`psl.html`).
 
