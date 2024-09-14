@@ -1,9 +1,9 @@
 Written by:  James Garijo-Garde
      |  for: exclusive personal use
-     |  on:  12/29/2017 - 12/13/2023
+     |  on:  12/29/2017 - 12/21/2022
 
 
-This is my personal website, Version 2.12
+This is my personal website, Version 2.11
 =========================================
 
 This website is designed with a functional minimalistic design that is intended
@@ -11,24 +11,16 @@ to retain stylish form while not sacrificing functionality. It is static HTML
 and CSS page.
 
 A note on the images used to facilitate links to external websites: these images
-were taken from the Twitter or Threads profiles of each of the companies and
-modified by me to fit the color scheme of my website. I do not take ownership of
-any of these designs and am only responsible for the recoloring of the logos. I
-acknowledge that all rights pertaining to these images belong to the respective
-company.
+were taken from the Twitter profiles of each of the companies and modified by me
+to fit the color scheme of my website. I do not take ownership of any of these
+designs and am only responsible for the recoloring of the logos. I acknowledge
+that all rights pertaining to these images belong to the respective company.
 
-## As of 12/13/2023 (v2.12):
-New prompt to press a button or click a letter to navigate the website. The
-homepage now shows up as "JamesGG.net". I've started using Threads in place of
-Twitter, so my website reflects this; I updated the links icons as a whole.
-Added feature engineering type system project. Slight tweak to about page
-content. Minor tweaks to README.
-
-## As of 12/23/2022 (v2.11):
+## As of 12/23/2021 (v2.11):
 Revamped "Projects" page: added UPM, added PSL coursework, and removed OIRE
 work. Created a new subpage for PSL projects (`psl.html`).
 
-## As of 10/16/2022 (v2.10):
+## As of 12/23/2021 (v2.10):
 New job, new city ;) Changed occurrences of "software developer" to "software
 engineer".
 
@@ -180,10 +172,10 @@ http://jamesgg.net.
 * **links**:
     * `index.html`:   this is the "Links" page.
     * **images**:
-      * `GitHub.png`:   the GitHub logo (&copy;Microsoft).
-      * `LinkedIn.png`: the LinkedIn logo (&copy;Microsoft).
+      * `GitHub.png`:   the GitHub logo (&copy;GitHub).
+      * `LinkedIn.png`: the LinkedIn logo (&copy;LinkedIn).
       * `Medium.png`:   the Medium logo (&copy;Medium).
-      * `Threads.png`:  the Threads logo (&copy;Meta).
+      * `Twitter.png`:  the Twitter logo (&copy;Twitter).
     * **scripts**:
       * `hotkeys.js`:   the hotkeys script.
     * **styles**:
