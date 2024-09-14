@@ -1,9 +1,9 @@
 Written by:  James Garijo-Garde
      |  for: exclusive personal use
-     |  on:  12/29/2017 - 12/13/2023
+     |  on:  12/29/2017 - 9/14/2024
 
 
-This is my personal website, Version 2.12
+This is my personal website, Version 2.13
 =========================================
 
 This website is designed with a functional minimalistic design that is intended
