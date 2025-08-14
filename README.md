@@ -1,9 +1,9 @@
 Written by:  James Garijo-Garde
      |  for: exclusive personal use
-     |  on:  12/29/2017 - 9/14/2024
+     |  on:  12/29/2017 - 8/13/2025
 
 
-This is my personal website, Version 2.13
+This is my personal website, Version 2.14
 =========================================
 
 This website is designed with a functional minimalistic design that is intended
@@ -16,6 +16,11 @@ modified by me to fit the color scheme of my website. I do not take ownership of
 any of these designs and am only responsible for the recoloring of the logos. I
 acknowledge that all rights pertaining to these images belong to the respective
 company.
+
+## As of 8/13/2025 (v2.14):
+Updated the "About" page to reflect my career progression and to fix a broken
+link. Updated the PayPal donation link on the "Contact" page, which had been
+broken.
 
 ## As of 9/14/2024 (v2.13):
 Temporarily removed Spanish translation of website since it was unmaintained and
